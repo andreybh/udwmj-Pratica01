@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+    font-size: 6rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: cadetblue;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
